@@ -1,0 +1,14 @@
+{
+  "name": "nodeingest",
+  "version": "0.0.1",
+  "author": {
+    "name": "Joakim Lodén",
+    "email": "joakim@loden.se"
+  },
+  "main": "lib/nodeingest",
+  "dependencies": {
+    "request": "*",
+    "csv-stream": "*",
+    "underscore": "*"
+  }
+}
