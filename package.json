@@ -1,14 +1,27 @@
 {
-  "name": "nodeingest",
+  "name": "nodeautoingest",
   "version": "0.0.1",
   "author": {
     "name": "Joakim Lodén",
     "email": "joakim@loden.se"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/loddan/nodeautoingest"
+  },
+  "bugs": {
+    "url": "https://github.com/loddan/nodeautoingest/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/loddan/nodeautoingest/blob/master/LICENSE.txt"
+    }
+  ],
   "main": "lib/nodeingest",
   "dependencies": {
-    "request": "*",
-    "csv-stream": "*",
-    "underscore": "*"
+    "request": ">= 2.25.0",
+    "csv-stream": ">= 0.1.3",
+    "underscore": ">= 1.5.1"
   }
 }
