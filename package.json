@@ -1,6 +1,7 @@
 {
   "name": "nodeautoingest",
   "version": "0.0.1",
+  "description": "Node.js library for iTunes Connect Sales",
   "author": {
     "name": "Joakim Lodén",
     "email": "joakim@loden.se"
