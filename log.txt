@@ -1,0 +1,552 @@
+201308 Fri Aug 23 14:22:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:22:02 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:23:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:23:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:24:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:24:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:25:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:25:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:26:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:26:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:27:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:27:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:28:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:28:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:29:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:29:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:30:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:30:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:31:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:31:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:32:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:32:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:33:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:33:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:34:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:34:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:35:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:35:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:36:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:36:02 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:37:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:37:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:38:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:38:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:39:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:39:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:40:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:40:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:41:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:41:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:42:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:42:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:43:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:43:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:44:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:44:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:45:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:45:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:46:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:46:02 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:47:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:47:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:48:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:48:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:49:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:49:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:50:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:50:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:51:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:51:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:52:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:52:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:53:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:53:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:54:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:54:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:55:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:55:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:56:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:56:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:57:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:57:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:58:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:58:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 14:59:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 14:59:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 23 15:00:01 KST 2013
+Write Sale Report Apple Fri Aug 23 2013 15:00:01 GMT+0900 (KST)
+20130821
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130821' }
+Success Get Report
+Create CSV File
+201308 Sat Aug 24 01:01:01 KST 2013
+Write Sale Report Apple Sat Aug 24 2013 01:01:01 GMT+0900 (KST)
+20130822
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130822' }
+Success Get Report
+Create CSV File
+201308 Sun Aug 25 01:01:01 KST 2013
+Write Sale Report Apple Sun Aug 25 2013 01:01:01 GMT+0900 (KST)
+20130823
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130823' }
+Success Get Report
+Create CSV File
+201308 Mon Aug 26 01:01:01 KST 2013
+Write Sale Report Apple Mon Aug 26 2013 01:01:01 GMT+0900 (KST)
+20130824
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130824' }
+Success Get Report
+Create CSV File
+201308 Tue Aug 27 01:01:01 KST 2013
+Write Sale Report Apple Tue Aug 27 2013 01:01:01 GMT+0900 (KST)
+20130825
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130825' }
+Success Get Report
+Create CSV File
+201308 Wed Aug 28 01:01:01 KST 2013
+Write Sale Report Apple Wed Aug 28 2013 01:01:01 GMT+0900 (KST)
+20130826
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130826' }
+Success Get Report
+Create CSV File
+201308 Thu Aug 29 01:01:01 KST 2013
+Write Sale Report Apple Thu Aug 29 2013 01:01:01 GMT+0900 (KST)
+20130827
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130827' }
+Success Get Report
+Create CSV File
+201308 Fri Aug 30 01:01:01 KST 2013
+Write Sale Report Apple Fri Aug 30 2013 01:01:01 GMT+0900 (KST)
+20130828
+{ USERNAME: 'khj873@uangel.com',
+  PASSWORD: 'Uangel2012',
+  VNDNUMBER: '80081919',
+  TYPEOFREPORT: 'Sales',
+  DATETYPE: 'Daily',
+  REPORTTYPE: 'Summary',
+  REPORTDATE: '20130828' }
+Success Get Report
+Create CSV File
